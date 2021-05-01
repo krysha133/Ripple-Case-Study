@@ -1,5 +1,4 @@
 # Ripple - Case Study
----
 ## Overview and Origin
 [Ripple](https://ripple.com/) was initially incorporated under the name "OpenCoin" in September of 2012. The original founders of the company were Jed McCaleb & Chris Larsen. The company was founded under the vision to realize the Internet Of Value. To allow money to flow freely & without friction similar to as we saw information flow freely with the deployment of the Internet of Things. Ripple has raised a total of 293.8M USD in funding over 13 rounds of investment. This included Secondary Market investments, Series A/B investments, Angel investments as well as Seed investments. The company has publicly discussed it has plans of going public with an IPO but it currently is awaiting for more regulatory clarity in the United States. 
 ## Business Activities
